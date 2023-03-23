@@ -5,7 +5,7 @@ import pyaudio
 import wikipedia
 import webbrowser
 import pywhatkit     # to playing something like music,video
-import wolframalpha  #to calculate strings into formula
+import wolframalpha  #to calculate strings into formula.
 import requests
 import re            # for open websites
 
